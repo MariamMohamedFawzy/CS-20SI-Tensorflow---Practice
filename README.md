@@ -1,0 +1,1 @@
+This repo is based on CS 20SI: Tensorflow for Deep Learning Research from Stanford. I follow the course and write my own notebooks to test my understanding of the course.
